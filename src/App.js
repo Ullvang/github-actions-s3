@@ -2,7 +2,8 @@ function App() {
   return (
     <div className="App">
       Jon Eriks app
-      <a href="youtube.com">go some where</a>
+      <br />
+      <a href="www.youtube.com">go some where</a>
     </div>
   );
 }
