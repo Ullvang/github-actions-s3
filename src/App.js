@@ -1,11 +1,7 @@
+import "../src/index.css";
+
 function App() {
-  return (
-    <div className="App">
-      Jon Eriks app
-      <br />
-      <a href="www.youtube.com">go some where</a>
-    </div>
-  );
+  return <div className="App">Jon Eriks app</div>;
 }
 
 export default App;
